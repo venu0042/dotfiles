@@ -1,0 +1,1 @@
+/home/venunisandhan/.config/hypr/scripts/WallustSwww.sh
